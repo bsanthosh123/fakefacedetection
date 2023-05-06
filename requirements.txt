@@ -1,0 +1,16 @@
+opencv-python==4.4.0.40
+tensorflow==2.5.0
+opencv-python
+cmake==3.17.2
+dlib==19.18.0
+Pillow
+face_recognition
+geopy
+requests
+easydict==1.10
+numpy
+tqdm
+torchvision
+torch
+opencage
+matplotlib
